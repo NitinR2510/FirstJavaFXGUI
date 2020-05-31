@@ -6,7 +6,7 @@ Well, I tried making a GUI project using JavaFX. Initially, was confused between
 It is a simple window with two menus and a button.
 The Event handling procedure are simple print statements that are printed in the command console. 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of output](https://github.com/NitinR2510/FirstJavaFXGUI/blob/master/JavaOutput.PNG)
 
 ## Software
 I used IntelliJ community Edition as that felt easier to me than Ecllipse.
